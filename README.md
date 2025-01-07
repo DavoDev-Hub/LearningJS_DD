@@ -1,2 +1,3 @@
-### Ejercicios resueltos por mi, libro https://www.eloquentjavascript.es/
-![image](https://github.com/user-attachments/assets/27340995-c12e-41e6-b800-6234730564ca)
+### Ejercicios resueltos por mi, libro [https://www.eloquentjavascript.es/](https://eloquentjavascript.net/)
+![image](https://github.com/user-attachments/assets/c2c52a0d-4334-41be-a74c-057de6e04d35)
+
