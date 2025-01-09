@@ -1,0 +1,15 @@
+BIG  O - COMPLEJIDAD DE ALGORITMOS
+O(1): El algoritmo hace siempre el mismo número de operaciones,
+sin importar el tamaño de la entrada.
+Ejemplo: Acceder a un elemento en una lista.
+
+O(n): El algoritmo realiza una operación por cada elemento de la entrada.
+Ejemplo: Recorrer todos los elementos de una lista.
+
+O(n²): El algoritmo realiza comparaciones entre todos los elementos dos veces,
+lo que crece exponencialmente con el tamaño de la entrada.
+Ejemplo: Usar dos bucles anidados, como en la comparación de todos los pares
+de elementos de una lista.
+
+video de youtube:
+https://youtu.be/MyAiCtuhiqQ?si=IU1wS06fQxan2uIO
