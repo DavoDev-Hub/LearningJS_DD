@@ -48,6 +48,5 @@ console.log(myQueue.dequeue());
 console.log(myQueue.dequeue());
 console.log(myQueue.dequeue());
 console.log(myQueue.dequeue());
-
 console.log(myQueue.dequeue());
 
